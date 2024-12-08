@@ -1,0 +1,2 @@
+D001,Pedro,Lopez,23456789,Matemáticas,Programación,Física
+D002,Ana,Rodriguez,98765432,Química,Biología,Inglés

@@ -1,0 +1,2 @@
+E001,Juan,Perez,12345678,Matemáticas,Programación,Física
+E002,Maria,Gomez,87654321,Química,Biología,Inglés
